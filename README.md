@@ -1,7 +1,10 @@
 ### Hi there 👋
 
+My name is Bernardo Cruz and I'm a junior back end software developer who starts to study in 2021. I'm from Brazil living in Rio de janeiro. 
 
-My name is Bernardo Cruz and I'm a junior back end software developer. I'm from Brazil living in Rio de janeiro. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
+##  ☎ Contact info
+
+[![Twitter][1.2]][1] [![LinkedIn][3.2]][3]
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
@@ -14,7 +17,7 @@ My name is Bernardo Cruz and I'm a junior back end software developer. I'm from 
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/cruzbernardo/cruzbernardo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MartinHeinz&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Bernardos GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=cruzbernardo&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Bernardo's GitHub Stats" />
 </a>
 
 <a href="https://github.com/cruzbernardo/cruzbernardo">
@@ -29,8 +32,8 @@ My name is Bernardo Cruz and I'm a junior back end software developer. I'm from 
 
 <!-- icons without padding -->
 
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[3.2]: https://raw.githubusercontent.com/cruzbernardo/cruzbernardo/master/linkedin-3-16.png (LinkedIn icon without padding)
+[1.2]: https://img.shields.io/badge/twitter-blue?style=flat&logo=twitter&labelColor=blue">
+[3.2]: https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue">
 
 
 <!-- links to your social media accounts -->
