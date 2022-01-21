@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Bernardo Cruz and I'm a junior back end software developer who starts to study in 2021. I'm from Brazil living in Rio de janeiro. 
+My name is Bernardo Cruz and I'm a junior back end software developer who started to study in 2021. I'm from Brazil living in Rio de janeiro. 
 
 ##  ☎ Contact info
 
@@ -9,8 +9,8 @@ My name is Bernardo Cruz and I'm a junior back end software developer who starts
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Framework-Nodejs-informational?style=flat&logo=nodejs&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Nestjs-informational?style=flat&logo=nestjs&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Nodejs-informational?style=flat&logo=nodejs&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Framework-Nestjs-informational?style=flat&logo=nestjs&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 
